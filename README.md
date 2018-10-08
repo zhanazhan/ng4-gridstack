@@ -130,4 +130,4 @@ https://stackoverflow.com/users/3112339/etchelon
 
 ## License
 
-MIT © [Ramy Othman](mailto:ramy.mostafa@gmail.com)
+MIT © [Jake](mailto:zhanazhan@gmail.com)
